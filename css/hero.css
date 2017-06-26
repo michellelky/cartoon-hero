@@ -20,13 +20,13 @@ header img{
 }
 
 h1{
-	font-size: 60px;
+	font-size: 80px;
 	color:#ffffff;
 }
 
 .content{max-width: 900px;
          margin: 0 auto;
-         padding-left: 10%;
+         padding: 0 5% 30px 5%;
               }
 img.pic{
 	max-width: 100%; /* img fit to screen? */
