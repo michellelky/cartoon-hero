@@ -9,27 +9,30 @@ header{
 	background: linear-gradient(#30bfcc, #1b3991);
 	text-align: center;
 	padding: 20px;
-	height: 500px;
+	height: 425px;
 	}
 
 header img{
 	border-radius: 200px; /* round corners */
     border: 15px solid #e1f1f2;
     width: 300px;
-    margin: 0;
+    margin-bottom: 0em;
 }
+/* 	p {margin-top:0em} 
+h1{margin-bottom:0em}*/
 
 h1{
 	font-size: 80px;
 	color:#ffffff;
-}
+	margin-top: 0em
+    }
 
 .content{max-width: 900px;
          margin: 0 auto;
          padding: 0 5% 30px 5%;
               }
 img.pic{
-	max-width: 100%; /* img fit to screen? */
+	max-width: 100%; /* img fit to screen?*/
 	}              
 
 p.caption{
